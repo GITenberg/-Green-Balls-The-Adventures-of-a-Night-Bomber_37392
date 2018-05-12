@@ -1,0 +1,27 @@
+_repo: -Green-Balls-The-Adventures-of-a-Night-Bomber_37392
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37392-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bewsher, Paul
+    birthdate: 1894
+    deathdate: 1966
+    gutenberg_agent_id: '38020'
+    url: http://www.gutenberg.org/2009/agents/38020
+description: ''
+gutenberg_issued: '2011-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37392'
+  lccn: '20000091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+title: '"Green Balls" : The Adventures of a Night-Bomber'
+url: http://www.gutenberg.org/ebooks/37392
